@@ -1,0 +1,18 @@
+First the game does not have any menu screen during gameplay so the only way to exit the game at the moment is to Alt-F4.
+Or you can play the game to the last available level.
+
+Keyboard:
+Movement - WASD
+Jump - Space
+Double Jump - 2x Space
+Sprint - hold Shift
+
+Controller (as in a PS4 controller)
+Movement - Left stick
+Jump - X button
+Double Jump - X X
+Sprint - R1 button.
+
+Currently there are only 3 levels in this version and a crude Main Menu.
+There will be more in the final release. :)
+Have fun, and give feedback on itch.io :)
