@@ -282,6 +282,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -2164,6 +2165,93 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      GreyPlatform2: 2259727219438315944
+      LightGrassBlockBottomRightCorner: 2620999850736420264
+      SpaceGrassBottomLeftCorner: 2769885362572891434
+      BrickBlockMid: -1252025376992931709
+      MossBlockTopMid: 3721206807199574096
+      GreyPlatform1: 5819871258034587923
+      WoodInnerCorner1: -5453880865855771486
+      SpaceGrassMid: 5063591721430881570
+      LightGrassBlockTopLeftCorner: 4766802168184475957
+      WoodInnerCorner3: -7819541114205624934
+      BrickBlockBottomLeftCorner: 3428821397120980769
+      ThinRockPlatformLeft: 5358996851675591209
+      ThinRockPlatformRight: 1711449304027514408
+      BrickBlockTopLeftCorner: -3918962127394069910
+      LightGrassBlockTopMid: 7943464550610457251
+      MossBlockLeft: 5988275101769560615
+      SpaceGrassInner3: 379118598977146330
+      BrickBlockInner2: 5380743038275514072
+      RockBorderUpperMid: 7342804147089739580
+      MossBlockMid: 5917618115707030172
+      MossInner3: -4207731177672959930
+      ThinWoodPlatformLeft: -4022694726900212569
+      RockBorderLeftMid: -857840176383129086
+      MossInner0: 1834175920236650305
+      MossBlockTopRightCorner: -197904581926626051
+      WoodBorderUpperMid: 4933862967234440694
+      SpaceGrassBottomMid: -9065017710439255229
+      RockBorderLowerRightCorner: 6310486622897893646
+      SpaceGrassInner0: 9051841252037681709
+      LightGrassBlockTopRightCorner: -7347219255181986903
+      BrickBlockInner0: -1686594289151781696
+      BrickBlockInner1: 1267343245607864193
+      BrickBlockMidRight: 2383590771012211271
+      GreyPlatform0: 8304085970770240517
+      BrownPlatform0: 3960460497668127647
+      LightGrassInner2: 3324791916300770321
+      LightGrassBlockBottomLeftCorner: -4540417752536426878
+      BrickBlockBottomMid: 7670700962780772113
+      BrickBlockInner3: -6931175314313071712
+      SpaceGrassBottomRightCorner: 7747253799600147050
+      BrickBlockBottomRightCorner: -3912100822870045097
+      LightGrassInner0: -5742017059485446288
+      WoodInnerCorner0: -8585889677064027493
+      MossInner1: -544440302786801571
+      BrownPlatform3: -5467818790455678805
+      BrickBlockTopMid: 9103387047762358048
+      BrickBlockMidLeft: -7091288699856980373
+      WoodBorderLowerLeftCorner: -7938635362662432394
+      WoodBorderLowerMid: -2031364208924450991
+      SpaceGrassTopMid: 595150188318235410
+      RockBorderUpperRightCorner: 5333725910036218396
+      GreyPlatform3: -876249401986460383
+      BrownPlatform2: 1959242234642493429
+      WoodBorderLowerRightCorner: 7924768050718739784
+      WoodBorderRightMid: 4414993753915607275
+      SpaceGrassInner1: -216309243283673249
+      MossBlockRight: 7017764536788123571
+      LightGrassBlockMid: -7419515092152464958
+      MossBlockBottomLeftCorner: -851399136955410399
+      SpaceGrassMidLeft: -8901095482721848204
+      LightGrassBlockLeft: 1677969170204734917
+      ThinWoodPlatformRight: -8074405414792180583
+      SpaceGrassInner2: 955897709614569303
+      WoodBorderLeftMid: 4342185354254719579
+      BrickBlockTopRightCorner: -2406789826180114690
+      RockBorderUpperLeftCorner: -6235293824458081885
+      MossBlockBottomRightCorner: 3765567624289607195
+      ThinWoodPlatformMid: -4702101747586448131
+      RockBorderLowerMid: -7152485000540787396
+      MossInner2: -4401375221719629345
+      LightGrassBlockBottomMid: 83881842087414782
+      SpaceGrassTopRightCorner: -4619009428585204688
+      BrownPlatform1: -2855676163392102926
+      LightGrassBlockRight: -3772788190681173310
+      RockBorderLowerLeftCorner: 7282933932642684246
+      WoodBorderUpperLeftCorner: -5544034647522700988
+      RockBorderRightMid: 674029489870886860
+      SpaceGrassMidRight: 8659721161941031216
+      ThinRockPlatformMid: 7113087853046313844
+      MossBlockBottomMid: -6161409863061258775
+      SpaceGrassTopLeftCorner: 3954039318004772946
+      LightGrassInner1: 7720078550713291429
+      WoodBorderUpperRightCorner: 8314089492805882382
+      MossBlockTopLeftCorner: 3886711452162515544
+      LightGrassInner3: -2670375232149954509
+      WoodInnerCorner2: -7756284310654259397
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

@@ -501,6 +501,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -892,6 +893,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Terrain Sliced (16x16)_3: 7452560645506918919
+      Terrain Sliced (16x16)_1: -6150033036582198407
+      Terrain Sliced (16x16)_0: 2902273802658180415
+      Terrain Sliced (16x16)_9: 3320371760038065978
+      Terrain Sliced (16x16)_8: 5999578222934003670
+      Terrain Sliced (16x16)_13: -4552142719482407309
+      Terrain Sliced (16x16)_11: -4669499228856403857
+      Terrain Sliced (16x16)_6: -4782553538942834977
+      Terrain Sliced (16x16)_14: -7107133873430283805
+      Terrain Sliced (16x16)_4: -1523456763730081660
+      Terrain Sliced (16x16)_7: 3925165532358984209
+      Terrain Sliced (16x16)_12: 5716825295704421368
+      Terrain Sliced (16x16)_2: 5021068500436517841
+      Terrain Sliced (16x16)_5: -7892170592577072746
+      Terrain Sliced (16x16)_10: -3574895735335355282
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

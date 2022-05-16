@@ -63,6 +63,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -412,6 +413,20 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Kwiatek_2: -780386193375752261
+      Kwiatek_0: 1359572981183516304
+      Kwiatek_7: 8886787294270238183
+      Kwiatek_6: -3427403022757795778
+      Kwiatek_8: -526377737994261315
+      Kwiatek_4: -8262344008329706649
+      Kwiatek_5: -1064274924793106964
+      Kwiatek_1: 7121169625487201802
+      Kwiatek_10: 264449346791045538
+      Kwiatek_12: 7563134687224478962
+      Kwiatek_3: -2324077371074323422
+      Kwiatek_9: -8944366516910480611
+      Kwiatek_11: 5936735022786094488
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

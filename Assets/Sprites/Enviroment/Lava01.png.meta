@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -316,6 +317,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Lava01_1: 6511834199386788030
+      Lava01_7: 1641955975123598023
+      Lava01_5: 5205575675233938315
+      Lava01_0: 4314630426539425498
+      Lava01_8: 3357648820829754545
+      Lava01_4: -6974865666646879242
+      Lava01_3: 7515237864196870496
+      Lava01_6: -3735998792483459731
+      Lava01_2: 3035123404863411352
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

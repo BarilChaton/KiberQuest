@@ -51,6 +51,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -316,6 +317,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      CastleBackWallBottomMid: -1459069242253791122
+      CastleBackWallMid: 3709395470188729914
+      CastleBackWallMidLeft: -9114847578740223409
+      CastleBackWallTopMid: 8516645164251878092
+      CastleBackWallBottomRight: -4332446442371571619
+      CastleBackWallTopRight: 8749005635180653793
+      CastleBackWallBottomLeft: 4239696434956193796
+      CastleBackWallTopLeft: -2113894134886356154
+      CastleBackWallMidRight: -2363056867471366736
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
