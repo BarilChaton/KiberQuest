@@ -778,7 +778,7 @@ TextureImporter:
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -786,6 +786,174 @@ TextureImporter:
       bones: []
       spriteID: 67b919b7e9d81f94f84e2d1cf49e3ace
       internalID: -1697784468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3eddd2aa124ed49892f43692a176ca
+      internalID: -1604391055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bb2c4a9c2209545ba17d1f8adcbce8
+      internalID: 1713087470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a56b86029d986347b2d34bb0b4e5e4a
+      internalID: -954939121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cd9464044e2d9418cccd198189dd1b
+      internalID: 1769074163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce12175dda8b3940b45a48e360766b9
+      internalID: 1215932667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84402dac36430364e9e10c2c70325b1b
+      internalID: 1448812442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac05695b77e4544a907b00eeefc76ee
+      internalID: 1924319420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrain (32x32)_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735cfa0c5c1d17a42a1d36d051aae674
+      internalID: 340572561
       vertices: []
       indices: 
       edges: []
@@ -802,24 +970,32 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       Terrain (32x32)_9: 1359810856
-      Terrain (32x32)_7: 1583781109
-      Terrain (32x32)_3: -1984357431
+      CastleBackWallMidRight: -2363056867471366736
+      Terrain (32x32)_1: -907052515
       CastleBackWallBottomMid: -1459069242253791122
       Terrain (32x32)_13: 790962713
       Terrain (32x32)_2: -519410140
       Terrain (32x32)_18: 949930800
-      Terrain (32x32)_11: 647584159
+      Terrain (32x32)_20: -1670874931
+      Terrain (32x32)_25: -954939121
       Terrain (32x32)_22: -1697784468
+      Terrain (32x32)_28: 1448812442
       Terrain (32x32)_5: -1323852496
       Terrain (32x32)_0: 1534924358
       Terrain (32x32)_14: -1033998330
+      Terrain (32x32)_29: 1924319420
       Terrain (32x32)_19: -303281385
+      Terrain (32x32)_24: 1713087470
       Terrain (32x32)_21: 217307824
+      Terrain (32x32)_27: 1215932667
       CastleBackWallMid: 3709395470188729914
       CastleBackWallMidLeft: -9114847578740223409
       CastleBackWallTopMid: 8516645164251878092
       Terrain (32x32)_15: -2077325334
+      Terrain (32x32)_26: 1769074163
       CastleBackWallBottomRight: -4332446442371571619
+      Terrain (32x32)_30: 340572561
+      Terrain (32x32)_23: -1604391055
       CastleBackWallTopRight: 8749005635180653793
       Terrain (32x32)_17: 498343512
       Terrain (32x32)_10: -252397091
@@ -828,11 +1004,11 @@ TextureImporter:
       CastleBackWallTopLeft: -2113894134886356154
       Terrain (32x32)_6: -244408803
       Terrain (32x32)_12: 1547778090
-      CastleBackWallMidRight: -2363056867471366736
       Terrain (32x32)_4: -1419265057
-      Terrain (32x32)_20: -1670874931
       Terrain (32x32)_8: -1042810892
-      Terrain (32x32)_1: -907052515
+      Terrain (32x32)_11: 647584159
+      Terrain (32x32)_7: 1583781109
+      Terrain (32x32)_3: -1984357431
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
