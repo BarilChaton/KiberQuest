@@ -41,7 +41,6 @@ public class Kiber : MonoBehaviour
     bool isSliding;
     bool coyoteJump;
     bool isDead = false;
-    bool isBouncing = false;
 
     //public fields
     public float knockback;
@@ -51,6 +50,9 @@ public class Kiber : MonoBehaviour
 
     private void Awake()
     {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
         availableJumps = totalJumps;
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
